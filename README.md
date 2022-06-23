@@ -6,4 +6,4 @@
 
 ## Resultado:
 
-[:computer: Confira a página clicando aqui: PicPro-page](https://gabrielsnows.github.io/riot-login-screen/)
+[:computer: Confira a página clicando aqui: Riot login screen](https://gabrielsnows.github.io/riot-login-screen/)
